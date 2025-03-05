@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RandomNumberGo/1.0.0": {
+        "runtime": {
+          "RandomNumberGo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomNumberGo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\bin\Debug\net8.0-windows\RandomNumberGo.exe
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\bin\Debug\net8.0-windows\RandomNumberGo.deps.json
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\bin\Debug\net8.0-windows\RandomNumberGo.runtimeconfig.json
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\bin\Debug\net8.0-windows\RandomNumberGo.dll
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\bin\Debug\net8.0-windows\RandomNumberGo.pdb
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.Number.resources
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.csproj.GenerateResource.cache
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.AssemblyInfoInputs.cache
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.AssemblyInfo.cs
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.csproj.CoreCompileInputs.cache
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.dll
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\refint\RandomNumberGo.dll
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.pdb
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\RandomNumberGo.genruntimeconfig.cache
+C:\Users\LiamF\source\repos\RandomNumberGo\RandomNumberGo\obj\Debug\net8.0-windows\ref\RandomNumberGo.dll
