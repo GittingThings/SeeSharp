@@ -1,0 +1,16 @@
+C:\Users\LiamF\source\repos\LPS\LPS\bin\Debug\net8.0-windows\LPS.exe
+C:\Users\LiamF\source\repos\LPS\LPS\bin\Debug\net8.0-windows\LPS.deps.json
+C:\Users\LiamF\source\repos\LPS\LPS\bin\Debug\net8.0-windows\LPS.runtimeconfig.json
+C:\Users\LiamF\source\repos\LPS\LPS\bin\Debug\net8.0-windows\LPS.dll
+C:\Users\LiamF\source\repos\LPS\LPS\bin\Debug\net8.0-windows\LPS.pdb
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.Form1.resources
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.csproj.GenerateResource.cache
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.AssemblyInfoInputs.cache
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.AssemblyInfo.cs
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.csproj.CoreCompileInputs.cache
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.dll
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\refint\LPS.dll
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.pdb
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\LPS.genruntimeconfig.cache
+C:\Users\LiamF\source\repos\LPS\LPS\obj\Debug\net8.0-windows\ref\LPS.dll
