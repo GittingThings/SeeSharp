@@ -1,0 +1,16 @@
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.frmTesting.resources
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.csproj.GenerateResource.cache
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.AssemblyInfoInputs.cache
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.AssemblyInfo.cs
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.csproj.CoreCompileInputs.cache
+C:\Users\LiamF\source\repos\First2\First2\bin\Debug\net8.0-windows\First2.exe
+C:\Users\LiamF\source\repos\First2\First2\bin\Debug\net8.0-windows\First2.deps.json
+C:\Users\LiamF\source\repos\First2\First2\bin\Debug\net8.0-windows\First2.runtimeconfig.json
+C:\Users\LiamF\source\repos\First2\First2\bin\Debug\net8.0-windows\First2.dll
+C:\Users\LiamF\source\repos\First2\First2\bin\Debug\net8.0-windows\First2.pdb
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.dll
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\refint\First2.dll
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.pdb
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\First2.genruntimeconfig.cache
+C:\Users\LiamF\source\repos\First2\First2\obj\Debug\net8.0-windows\ref\First2.dll
