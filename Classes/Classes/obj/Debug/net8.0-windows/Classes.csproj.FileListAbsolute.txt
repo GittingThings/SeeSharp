@@ -1,0 +1,16 @@
+C:\Users\LiamF\source\repos\Classes\Classes\bin\Debug\net8.0-windows\Classes.exe
+C:\Users\LiamF\source\repos\Classes\Classes\bin\Debug\net8.0-windows\Classes.deps.json
+C:\Users\LiamF\source\repos\Classes\Classes\bin\Debug\net8.0-windows\Classes.runtimeconfig.json
+C:\Users\LiamF\source\repos\Classes\Classes\bin\Debug\net8.0-windows\Classes.dll
+C:\Users\LiamF\source\repos\Classes\Classes\bin\Debug\net8.0-windows\Classes.pdb
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.Cls.resources
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.csproj.GenerateResource.cache
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfoInputs.cache
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfo.cs
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.csproj.CoreCompileInputs.cache
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.dll
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\refint\Classes.dll
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.pdb
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\Classes.genruntimeconfig.cache
+C:\Users\LiamF\source\repos\Classes\Classes\obj\Debug\net8.0-windows\ref\Classes.dll
