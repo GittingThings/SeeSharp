@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D&D Character Maker/1.0.0": {
+        "runtime": {
+          "D&D Character Maker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D&D Character Maker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
